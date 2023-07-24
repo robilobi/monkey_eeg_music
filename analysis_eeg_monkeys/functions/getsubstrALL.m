@@ -1,0 +1,27 @@
+substr{1}  = 'U_MT_0';  
+substr{2}  = 'U_MT_1'; 
+substr{3}  = 'U_MT_2'; 
+substr{4}  = 'U_MT_2r'; 
+substr{5}  = 'U_MT_3'; 
+substr{6}  = 'U_MT_3r'; 
+substr{7}  = 'U_MT_4';  
+substr{8}  = 'U_MT_5'; 
+substr{9}  = 'U_MT_6'; 
+substr{10} = 'U_MT_7'; 
+substr{11} = 'U_MT_8'; 
+substr{12} = 'U_MT_9'; % EXCLUDED NO DATA IN SOME POINTS
+substr{13}  = 'T_MT_0';  % EXCLUDED NO DATA IN SOME POINTS
+substr{14}  = 'T_MT_1'; % EXCLUDED NO DATA IN SOME POINTS
+substr{15}  = 'T_MT_2'; 
+substr{16}  = 'T_MT_2r'; 
+substr{17}  = 'T_MT_3'; 
+substr{18}  = 'T_MT_4';
+substr{19}  = 'T_MT_5'; 
+substr{20}  = 'T_MT_5r'; 
+substr{21}  = 'T_MT_6'; 
+substr{22}  = 'T_MT_7'; 
+substr{23}  = 'T_MT_8'; 
+substr{24}  = 'T_MT_8r';
+substr{25}  = 'T_MT_9'; 
+substr{26}  = 'T_MT_9r'; 
+

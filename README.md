@@ -30,5 +30,5 @@ Music, macaques, humans, cross-species comparison, predictions, surprise, Predic
 
 USE
 ===========================
-The dataset will be avilable upon publication on the repositiry Dateverse XXX that contains monkey data: .tab and .mat files for 2 monkeys, and each condition AND result data from 20 human data. The original human data are available at https://datadryad.org/stash/dataset/doi:10.5061/dryad.g1jwstqmh. 
+The dataset will be avilable upon publication on the repositiry Dateverse (https://dataverse.iit.it/dataset.xhtml?persistentId=doi:10.48557/U5SHX6) that contains monkey data: .tab and .mat files for 2 monkeys, and each condition AND result data from 20 human data. The original human data are available at https://datadryad.org/stash/dataset/doi:10.5061/dryad.g1jwstqmh. 
 
